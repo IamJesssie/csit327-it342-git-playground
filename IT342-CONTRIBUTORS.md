@@ -16,7 +16,11 @@
 - Jumawan, Clyde Nixon (**@klaydgg12**)
 - Caranzo, Mac Howard (**@Howardness**)
 - Tabungar, Steven Jan (**@Smuffinn**)
+- verano, joel (**@VeranoJoel**)
 - Lapure, Jessie Noel (**@Iamjesssie**)
+
+
+
 
 
 
