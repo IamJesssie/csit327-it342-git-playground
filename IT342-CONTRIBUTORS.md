@@ -17,7 +17,7 @@
 - Caranzo, Mac Howard (**@Howardness**)
 - Tabungar, Steven Jan (**@Smuffinn**)
 - verano, joel (**@VeranoJoel**)
-- Lapure, Jessie Noel (**@Iamjesssie**)
+- Lapure, Jessie Noel (**@IamJesssie**)
 
 
 
